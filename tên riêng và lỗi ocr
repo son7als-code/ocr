@@ -59,7 +59,37 @@
 [Cửu trọng lãng] 九重浪, 九重朗, 九重狼, 九众浪, 酒重浪, 九种浪, 旧重浪, 九崇浪
 [Lưu ly kim thân] 琉璃金身, 流离金身, 留利金身, 琉璃紧身, 琉璃今生, 琉璃近身, 榴莲金身, 刘利金身
 
+## Lỗi OCR — cụm từ / câu cần sửa
+
+| STT | OCR lỗi | Sửa đúng tiếng Trung | Dịch tiếng Việt |
+|---:|---|---|---|
+| 1 | 业家 | 叶家 | Diệp gia |
+| 2 | 齐道地兵 | 极道帝兵 | Cực Đạo Đế Binh |
+| 3 | 齐道地兵 | 极道帝兵 | Cực Đạo Đế Binh |
+| 4 | 术体 | 入体 | luyện hóa vào cơ thể |
+| 5 | 混沌中 | 混沌钟 | Hỗn Độn Chung |
+| 6 | 窑仅仅 | 也仅仅 | cũng chỉ mới |
+| 7 | 火力圣人 | 火狸圣人 | Thánh Nhân Hoả Ly |
+| 8 | 手剑 | 手段 | thủ đoạn |
+| 9 | 大地 | 大帝 | Đại Đế |
+| 10 | 其道地界 | 极道帝兵 | Cực Đạo Đế Binh |
+| 11 | 地处传承 | 帝术传承 | truyền thừa Đế thuật |
+| 12 | 这个叶 | 这个叶家 | Diệp gia này |
+| 13 | 盗号含铁 | 道号含铁 | đạo hiệu Hàm Thiết |
+| 14 | 笛系血脉 | 嫡系血脉 | huyết mạch đích hệ |
+| 15 | 第三传 | 第三层 | tầng thứ ba |
+| 16 | 雏类的几道地币 | 叶家的极道帝兵 | Cực Đạo Đế Binh của Diệp gia |
+| 17 | 胜利 | 生机 | sinh cơ |
+| 18 | 巨茧 | 巨舰 | cự hạm |
+| 19 | 物理 | 物力 | vật lực |
+| 20 | 沙雕好 | 杀掉好 | giết chúng thì tốt |
+| 21 | 只有你让 | 只要你让 | chỉ cần ngươi bảo |
+| 22 | 小兴 | 小星 | Tiểu Tinh |
+| 23 | 毒刀 | 屠刀 | dao mổ / đao sát sinh |
+
 ## Ghi chú xử lý OCR
 - Chuỗi ở bên phải mỗi mục là các biến thể OCR cần quy về tên chuẩn ở bên trái.
+- Các mục trong phần "Lỗi OCR" là các cụm OCR đã được xác định chắc chắn cần sửa theo ngữ cảnh.
+- STT 2 và 3 là cùng một lỗi OCR, giữ nguyên cả hai theo danh sách gốc.
 - Ưu tiên nhận diện theo ngữ cảnh trước khi thay thế để tránh sửa nhầm từ thông thường.
-- Giữ nguyên chữ Hán chuẩn của tên riêng khi xuất bản bản dịch.
+- Giữ nguyên chữ Hán chuẩn của tên riêng, thuật ngữ và chiêu thức khi xuất bản bản dịch.
