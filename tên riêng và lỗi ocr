@@ -43,7 +43,19 @@
 [Dạ Không] 夜空, 夜空儿, 冶空, 叶空, 野空, 夜孔, 夜控制, 夜空气
 [Tiểu Hạ] 小夏, 小贺, 小下, 小厦, 晓夏, 肖夏, 小霞, 小峡
 
-## Thuật ngữ / tên riêng khác
+## Chiêu thức / kỹ thuật
+
+[Nhất trọng lãng] 一重浪, 一重朗, 一重狼, 一众浪, 依重浪, 一种浪, 溢重浪, 一崇浪
+[Nhị trọng lãng] 二重浪, 二重朗, 二重狼, 二众浪, 尔重浪, 二种浪, 恶重浪, 二崇浪
+[Tam trọng lãng] 三重浪, 三重朗, 三重狼, 三众浪, 山重浪, 三种浪, 散重浪, 三崇浪
+[Tứ trọng lãng] 四重浪, 四重朗, 四重狼, 四众浪, 似重浪, 四种浪, 死重浪, 四崇浪
+[Ngũ trọng lãng] 五重浪, 五重朗, 五重狼, 五众浪, 吾重浪, 五种浪, 武重浪, 五崇浪
+[Lục trọng lãng] 六重浪, 六重朗, 六重狼, 六众浪, 留重浪, 六种浪, 绿重浪, 六崇浪
+[Thất trọng lãng] 七重浪, 七重朗, 七重狼, 七众浪, 期重浪, 七种浪, 妻重浪, 七崇浪
+[Bát trọng lãng] 八重浪, 八重朗, 八重狼, 八众浪, 爸重浪, 八种浪, 拔重浪, 八崇浪
+[Cửu trọng lãng] 九重浪, 九重朗, 九重狼, 九众浪, 酒重浪, 九种浪, 旧重浪, 九崇浪
+
+## Công pháp / thuật pháp / vật phẩm / thuật ngữ
 
 [Linh thạch] 灵石, 零食, 仙晶, 仙贝
 [Lưu ly kim thân] 琉璃金身, 流离金身, 留利金身, 琉璃紧身, 琉璃今生, 琉璃近身, 榴莲金身, 刘利金身
@@ -53,4 +65,5 @@
 ## Ghi chú xử lý OCR
 - Chuỗi ở bên phải mỗi mục là các biến thể OCR cần quy về tên chuẩn ở bên trái.
 - Ưu tiên nhận diện theo ngữ cảnh trước khi thay thế để tránh sửa nhầm từ thông thường.
-- Giữ nguyên chữ Hán chuẩn của tên riêng khi xuất bản bản dịch.
+- Tên chiêu thức được tách riêng để có thể mở rộng danh sách mà không lẫn với tên nhân vật.
+- Giữ nguyên chữ Hán chuẩn của tên riêng và chiêu thức khi xuất bản bản dịch.
